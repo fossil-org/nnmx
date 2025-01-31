@@ -5,7 +5,7 @@ def read_long_description():
         return f.read()
 
 setup(
-    name="fossil-nnmx",
+    name="nnmx",
     version='1',
     author='fossil',
     author_email='fossil.org1@gmail.com',
