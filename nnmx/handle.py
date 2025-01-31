@@ -6,7 +6,7 @@
 ██║ ╚████║██║ ╚████║██║ ╚═╝ ██║██╔╝ ██╗
 ╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝
 
-2024 by FOSSIL @ https://github.com/fossil-org
+2025 by FOSSIL @ https://github.com/fossil-org
 more info at https://github.com/fossil-org/nnmx
 misuse of this software is strictly prohibited.
 
@@ -79,5 +79,8 @@ class Handle:
             except Exception as err:
                 print(f"error: {err}")
 
-if __name__ == "__main__":
+def main():
     Handle().run()
+
+if __name__ == "__main__":
+    main()
