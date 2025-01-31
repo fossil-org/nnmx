@@ -8,7 +8,7 @@ setup(
     name="fossil-nnmx",
     version='1',
     author='fossil',
-    author_email='pixilreal@gmail.com',
+    author_email='fossil.org1@gmail.com',
     description='minimal wifi management cli',
     long_description=read_long_description(),
     long_description_content_type='text/markdown',
