@@ -22,7 +22,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'nnmx:nnmx.handle:main'
+            'nnmx=nnmx.handle:main'
         ]
     },
 )
